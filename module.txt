@@ -1,0 +1,4 @@
+2	145	01	Initiation au développement	R101	UE12
+18	161	02	Outils mathématiques fondamentaux	R107	UE12
+14	157	03	Mathématiques discrètes	R106	UE12
+14	157	04	Mathématiques discrètes	R106	UE12
